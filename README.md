@@ -20,21 +20,21 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 
 ├── agile-framework/
 │   ├── sprint-backlog-template.xlsx 
-(sprint-backlog-template.xlsx)
+https://github.com/vinnybellack/Media-strategy-ops/tree/sprint-backlog-template.xlsx
 +
 │   └── team-velocity-tracker.xlsx 
-(https://github.com/vinnybellack/Media-strategy-ops/tree/team-velocity-tracker.xlsx)
+https://github.com/vinnybellack/Media-strategy-ops/tree/team-velocity-tracker.xlsx
 +
 ├── reports/
 │   ├── weekly-project-status-template.docx 
-(https://github.com/vinnybellack/Media-strategy-ops/tree/weekly-project-status-template.docx)
+https://github.com/vinnybellack/Media-strategy-ops/tree/weekly-project-status-template.docx
 +
 │   └── stakeholder-summary-presentation.pptx 
-(https://github.com/vinnybellack/Media-strategy-ops/tree/stakeholder-summary-presentation.pptx)
+https://github.com/vinnybellack/Media-strategy-ops/tree/stakeholder-summary-presentation.pptx
 +
 ├── workflows/
 │   └── production-sop.pdf 
-(https://github.com/vinnybellack/Media-strategy-ops/tree/production-sop.docx)
+https://github.com/vinnybellack/Media-strategy-ops/tree/production-sop.docx
 +
 │   └── creative-review-checklist.docx
 + (https://github.com/vinnybellack/Media-strategy-ops/tree/creative-review-checklist.docx)
