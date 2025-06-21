@@ -1,6 +1,7 @@
-# Media-strategy-ops
-Agile strategy &amp; project operations from my work at Rathish Ambat Productions—includes sprint templates, team trackers, reports, and SOPs tailored for creative and media workflows.
-# Strategy & Agile Operations – Rathish Ambat Productions (2022–2023)
+# Media-strategy-op
+Media-strategy-ops Agile strategy &amp; project operations from my work at Rathish Ambat Productions—includes sprint templates, team trackers, reports, and SOPs tailored for creative and media workflows.
+
+## Strategy & Agile Operations – Rathish Ambat Productions (2022–2023)
 
 This project demonstrates my role as a Strategy & Operations Associate at Rathish Ambat Productions, where I introduced Agile practices and improved project delivery efficiency across media and creative teams.
 
@@ -18,24 +19,17 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 
 ## 📂 Repository Structure
 
-├── agile-framework/
-│   ├── sprint-backlog-template.xlsx
-+
--
-│   └── team-velocity-tracker.xlsx
-+
--
-├── reports/
-│   ├── weekly-project-status-template.docx
-+
--
-│   └── stakeholder-summary-presentation.pptx
-+
--
-├── workflows/
-│   └── production-sop.pdf
+📁 `agile-framework/`  
+- [sprint-backlog-template.xlsx](agile-framework/sprint-backlog-template.xlsx)
 
-│   └── creative-review-checklist.docx
-+
+- [team-velocity-tracker.xlsx](agile-framework/team-velocity-tracker.xlsx)
 
-> *Note: All files use anonymized data for demonstration purposes only.*
+📁 `reports/`  
+- [weekly-project-status-template.docx](reports/weekly-project-status-template.docx)  
+- [stakeholder-summary-presentation.pptx](reports/stakeholder-summary-presentation.pptx)
+
+📁 `workflows/`  
+- [production-sop.docx](workflows/production-sop.docx)  
+- [creative-review-checklist.docx](workflows/creative-review-checklist.docx)
+
+> ⚠️ All files are anonymized and recreated for demonstration purposes only.
