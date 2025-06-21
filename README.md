@@ -20,12 +20,18 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 
 ├── agile-framework/
 │   ├── sprint-backlog-template.xlsx
++
 │   └── team-velocity-tracker.xlsx
++
 ├── reports/
 │   ├── weekly-project-status-template.docx
++
 │   └── stakeholder-summary-presentation.pptx
++
 ├── workflows/
 │   └── production-sop.pdf
++
 │   └── creative-review-checklist.docx
++
 
 > *Note: All files use anonymized data for demonstration purposes only.*
