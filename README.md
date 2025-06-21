@@ -20,7 +20,7 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 ## 📂 Repository Structure
 
 📁 `agile-framework/`  
-- [sprint-backlog-template.xlsx](agile-framework/sprint-backlog-template.xlsx)
+- [sprint-backlog-template.xlsx](https://docs.google.com/spreadsheets/d/12GyjexlG3qA73sCaxWJo-Airgi3eLLoA/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
 
 - [team-velocity-tracker.xlsx](agile-framework/team-velocity-tracker.xlsx)
 
