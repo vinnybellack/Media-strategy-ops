@@ -35,7 +35,7 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 ├── workflows/
 │   └── production-sop.pdf
 + https://github.com/vinnybellack/Media-strategy-ops.git/production-sop.docx
--
+- https://github.com/vinnybellack/Media-strategy-ops/blob/bdca75eac19fe480f8b564e69ab564a306dc4a44/production-sop.docx
 │   └── creative-review-checklist.docx
 +
 
