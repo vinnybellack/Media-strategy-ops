@@ -32,4 +32,28 @@ This project demonstrates my role as a Strategy & Operations Associate at Rathis
 - [production-sop.docx](https://docs.google.com/document/d/1_dM-H2SY-gPe5i-MK-BfMAY6ObNWY0cgwfXMUVVeoOg/edit?usp=drive_link) 
 - [creative-review-checklist.docx](https://docs.google.com/document/d/1qJoTxFFrFAILcha8I8EK3mPkwMLpU-2sll8wUAktHig/edit?usp=drive_link)
 
+## 📈 Outcome
+
+This repository documents the implementation of Agile strategy and project operations at Rathish Ambat Productions (2022–2023). Through structured sprint planning, backlog management, and KPI tracking, we achieved:
+
+- 🚀 **25% increase in team output**
+- ⏱️ **15% reduction in project delivery delays**
+
+The collaborative templates and SOPs included here improved cross-functional alignment across creative, production, and marketing teams. These resources became foundational tools in streamlining workflows and delivering consistent project outcomes.
+
+<p align="center">
+  <img src="assets/media-strategy-ops-banner.png" alt="Media Strategy Ops Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/media-strategy-ops-logo.png" alt="Media Strategy Ops Logo" width="150">
+</p>
+
+<h2 align="center">🎬 Media-Strategy-Ops</h2>
+<h4 align="center">Agile Strategy & Project Operations – Rathish Ambat Productions</h4>
+
+<p align="center">
+  Templates, trackers, reports, and SOPs tailored for media workflows.
+</p>
+All assets in this repo were used in real media projects and form a scalable operational framework adaptable for any creative production environment.
 > ⚠️ All files are anonymized and recreated for demonstration purposes only.
