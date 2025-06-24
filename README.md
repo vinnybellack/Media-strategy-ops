@@ -1,9 +1,9 @@
 # Media-strategy-ops
-Media-strategy-ops Agile strategy &amp; project operations from my work at Rathish Ambat Productions—includes sprint templates, team trackers, reports, and SOPs tailored for creative and media workflows.
+Media-strategy-ops Agile strategy &amp; project operations from my work at Productions—includes sprint templates, team trackers, reports, and SOPs tailored for creative and media workflows.
 
 ## Strategy & Agile Operations – Productions (2022–2023)
 
-This project demonstrates my role as a Strategy & Operations Associate at Rathish Ambat Productions, where I introduced Agile practices and improved project delivery efficiency across media and creative teams.
+This project demonstrates my role as a Strategy & Operations Associate at Productions, where I introduced Agile practices and improved project delivery efficiency across media and creative teams.
 
 ## 🧰 Tools & Skills
 - Jira – Sprint planning, backlog management
