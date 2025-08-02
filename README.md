@@ -20,17 +20,17 @@ This project demonstrates my role as a Strategy & Operations Associate at Produc
 ## 📂 Repository Structure
 
 📁 `agile-framework/`  
-- [sprint-backlog-template.xlsx](https://docs.google.com/spreadsheets/d/12GyjexlG3qA73sCaxWJo-Airgi3eLLoA/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
+- [sprint-backlog-template.xlsx](https://github.com/user-attachments/files/21556538/sprint-backlog-template.xlsx)
 
-- [team-velocity-tracker.xlsx](https://docs.google.com/spreadsheets/d/1Emoa4MDgGg8OVNrmxxxgdAj0w5VT-j2G/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
+- [team-velocity-tracker.xlsx](https://github.com/user-attachments/files/21556536/team-velocity-tracker.xlsx)
 
 📁 `reports/`  
-- [weekly-project-status-template.docx](https://docs.google.com/document/d/1h8Wb88Q0wbToj8TOWe5X6DOoL8JDBgNv2vi3H72pO_A/edit?usp=drive_link)  
-- [stakeholder-summary-presentation.pptx](https://docs.google.com/presentation/d/1N7YEQG7HNM17ISfFCRvxZvtWsT5d_dF6/edit?usp=drive_link&ouid=100872368629951581486&rtpof=true&sd=true)
+- [weekly-project-status-template.pdf](https://github.com/user-attachments/files/21556539/weekly-project-status-template.pdf)
+- [stakeholder-summary-presentation.pptx.pdf](https://github.com/user-attachments/files/21556537/stakeholder-summary-presentation.pptx.pdf)
 
 📁 `workflows/`  
-- [production-sop.docx](https://docs.google.com/document/d/1_dM-H2SY-gPe5i-MK-BfMAY6ObNWY0cgwfXMUVVeoOg/edit?usp=drive_link) 
-- [creative-review-checklist.docx](https://docs.google.com/document/d/1qJoTxFFrFAILcha8I8EK3mPkwMLpU-2sll8wUAktHig/edit?usp=drive_link)
+- [production-sop.pdf](https://github.com/user-attachments/files/21556534/production-sop.pdf)
+- [creative-review-checklist.pdf](https://github.com/user-attachments/files/21556535/creative-review-checklist.pdf)
 
 ## 📈 Outcome
 
